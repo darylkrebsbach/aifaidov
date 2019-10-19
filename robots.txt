@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foovaihohk.ctrlalt1337.com/sitemap.xml
